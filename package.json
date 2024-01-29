@@ -1,12 +1,12 @@
 {
-  "name": "it-frogs-tp-02",
+  "name": "js-bookshelf-project",
   "private": true,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
     "start": "vite",
-    "build": "vite build --base=/it-frogs-tp-02/",
+    "build": "vite build --base=/js-bookshelf-project/",
     "preview": "vite preview"
   },
   "devDependencies": {
